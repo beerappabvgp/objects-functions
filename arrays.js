@@ -2,6 +2,7 @@
 
 const products = ["Item1", "Item2", "Item3", "Item4", "Item5"];
 console.log(products);
+console.log("products.length", products.length);
 const display = (arr) => {
     // for (let i = 0; i < arr.length; i++) {
     //     console.log(arr[i]);
